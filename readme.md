@@ -1,11 +1,5 @@
-# Test Repository
+# Remote Work
 
-## second
+Public area for remote client
 
-## third
-
-## new items
-
-## Redevelop
-
-## Section
+For access to private repositories please contact
